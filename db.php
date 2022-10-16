@@ -4,10 +4,10 @@
 	session_start();
 }*/
 
-$host="localhost";
-$username="root";
-$password="";
-$db_name="movieDb";
+$host="www.db4free.net";
+$username="adibaa";
+$password="melani1304";
+$db_name="movieDbbb";
 // Create connection
 $conn = new mysqli($host, $username, $password,$db_name);
 // Check connection
